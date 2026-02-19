@@ -1,7 +1,7 @@
 🌟 Hi Im ThatMf!
-A heart for coding (C#, Javascript and Notepad++) 💕
+A heart for coding (Learning C#, Javascript and Notepad++) 💕
 
-💻 I build useful web apps (mostly for fun and intrests)
+💻 I build useful web apps (mostly for fun)
 
 🕹️ I love to creat games, mostly exploring or puzzle games
 
