@@ -1,5 +1,5 @@
 🌟 Hi Im ThatMf!
-A heart for coding (Learning C#, Javascript, Notepad++ and phyton) 💕
+A heart for coding (Learning C#, CSS, Javascript, HTML and phyton) 💕
 
 💻 I build useful web apps (mostly for fun)
 
